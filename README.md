@@ -13,7 +13,7 @@ Please cite this paper if you use the parameter files from this repository in yo
 
 📦 Contents
 *.par files:
-Parameter files containing dispersion measure (DM) noise model components (DM12 model) for individual pulsars. Each file corresponds to a single pulsar and includes the best-fit parameters inferred from Bayesian noise modeling.
+Parameter files containing dispersion measure (DM) noise model components (DM12 model) for individual pulsars. Each file corresponds to a single pulsar.
 
 
 ⚙️ Usage
